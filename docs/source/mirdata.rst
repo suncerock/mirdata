@@ -470,6 +470,12 @@ slakh
    :members:
    :inherited-members:
 
+swd
+^^^^^^^^^^^^^^^^^
+
+.. automodule:: mirdata.datasets.swd
+   :members:
+   :inherited-members:
 
 tinysol
 ^^^^^^^

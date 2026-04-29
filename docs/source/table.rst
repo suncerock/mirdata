@@ -588,6 +588,19 @@
      - .. image:: https://licensebuttons.net/l/by/4.0/80x15.png
           :target: https://creativecommons.org/licenses/by/4.0/
 
+   * - Schubert Winterreise Dataset (SWD)
+     - - audio: ✅ & 🔑
+       - annotations: ✅
+     - - :ref:`notes`
+       - Down :ref:`beats` (Measures)
+       - Global :ref:`key`
+       - Local :ref:`key`
+       - :ref:`chords`
+       - :ref:`sections`
+     - 216
+     - .. image:: https://licensebuttons.net/l/by/3.0/80x15.png
+          :target: https://creativecommons.org/licenses/by/3.0/
+
    * - Tinysol
      - - audio: ✅
        - annotations: ✅
