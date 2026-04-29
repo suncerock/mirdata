@@ -1,0 +1,31 @@
+{
+  "version": "sample",
+  "tracks": {
+    "Schubert_D911-01_QU98": {
+      "audio": [
+        "01_RawData/audio_wav/Schubert_D911-01_QU98.wav",
+        "66aa0f9e253cabaf5636f26594bf714a"
+      ],
+      "chord": [
+        "02_Annotations/ann_audio_chord/Schubert_D911-01_QU98.csv",
+        "5c86543e9c342464122452d94b225b35"
+      ],
+      "localkey": [
+        "02_Annotations/ann_audio_localkey-ann3/Schubert_D911-01_QU98.csv",
+        "a6858dfdc9d6629fb8205d24992d720d"
+      ],
+      "note": [
+        "02_Annotations/ann_audio_note/Schubert_D911-01_QU98.csv",
+        "4f114a88719ae2d2eda0b65f31b1ed38"
+      ],
+      "structure": [
+        "02_Annotations/ann_audio_structure/Schubert_D911-01_QU98.csv",
+        "1367ddb2e930567dccd614ae606ca769"
+      ],
+      "measure": [
+        "02_Annotations/ann_audio_measure/Schubert_D911-01_QU98.csv",
+        "0242518dcd0d5cf066783368869b7fc3"
+      ]
+    }
+  }
+}
